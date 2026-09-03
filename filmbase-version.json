@@ -1,0 +1,7 @@
+{
+  "android": {
+    "build": 11,
+    "version": "1.0.0",
+    "reason": "Lists now hold shows as well as films, missions count them, and several counting bugs are fixed."
+  }
+}
