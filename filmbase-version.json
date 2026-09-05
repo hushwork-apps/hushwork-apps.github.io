@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 11,
+    "build": 15,
     "version": "1.0.0",
-    "reason": "Lists now hold shows as well as films, missions count them, and several counting bugs are fixed."
+    "reason": "Collections now cap at ten films, with Kurosawa and Spielberg replacing Tarantino and Wong Kar-wai. Restore prompts count your shows, and no longer appear when your library is already here."
   }
 }
