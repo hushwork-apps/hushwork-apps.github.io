@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 15,
+    "build": 24,
     "version": "1.0.0",
-    "reason": "Collections now cap at ten films, with Kurosawa and Spielberg replacing Tarantino and Wong Kar-wai. Restore prompts count your shows, and no longer appear when your library is already here."
+    "reason": "Bigger, clearer text throughout. Every card on Stats opens a detail sheet now \u2014 tap a tile, a chart, or the director list. Library filters fit on one row. Collections cap at ten films, with Kurosawa and Spielberg replacing Tarantino and Wong Kar-wai."
   }
 }
