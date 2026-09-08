@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 24,
+    "build": 25,
     "version": "1.0.0",
-    "reason": "Bigger, clearer text throughout. Every card on Stats opens a detail sheet now \u2014 tap a tile, a chart, or the director list. Library filters fit on one row. Collections cap at ten films, with Kurosawa and Spielberg replacing Tarantino and Wong Kar-wai."
+    "reason": "Mission Packs. Three optional sets — India, British & Irish TV, and the United States — each adding five missions drawn from a much larger pool, so no two people get the same five. Switch them on in Settings, under Missions. Only what you log after switching a pack on counts towards it, and turning one off keeps everything you have already finished."
   }
 }
