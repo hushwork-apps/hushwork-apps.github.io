@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 25,
+    "build": 26,
     "version": "1.0.0",
-    "reason": "Mission Packs. Three optional sets — India, British & Irish TV, and the United States — each adding five missions drawn from a much larger pool, so no two people get the same five. Switch them on in Settings, under Missions. Only what you log after switching a pack on counts towards it, and turning one off keeps everything you have already finished."
+    "reason": "A fix for lists: editing a film right after opening the app could remove it from its lists. Also: Auto Backup says when it has paused and why, clearing an episode rating now saves, and two era missions have new names — your progress carries over."
   }
 }
