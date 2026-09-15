@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 26,
+    "build": 27,
     "version": "1.0.0",
-    "reason": "A fix for lists: editing a film right after opening the app could remove it from its lists. Also: Auto Backup says when it has paused and why, clearing an episode rating now saves, and two era missions have new names — your progress carries over."
+    "reason": "Finish a pack mission and a new one from the same pack takes its place. Also: show missions count a show the moment you rate it, and restoring a backup puts your Mission Packs back exactly as they were."
   }
 }
