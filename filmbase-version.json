@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 27,
+    "build": 28,
     "version": "1.0.0",
-    "reason": "Finish a pack mission and a new one from the same pack takes its place. Also: show missions count a show the moment you rate it, and restoring a backup puts your Mission Packs back exactly as they were."
+    "reason": "Clearing your watch history now keeps the films and shows you saved to a list but haven't watched yet — only what you actually watched is removed, and your lists stay as you built them. The confirmation tells you exactly what will go and what will stay."
   }
 }
