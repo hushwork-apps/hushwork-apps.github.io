@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 28,
+    "build": 29,
     "version": "1.0.0",
-    "reason": "Clearing your watch history now keeps the films and shows you saved to a list but haven't watched yet — only what you actually watched is removed, and your lists stay as you built them. The confirmation tells you exactly what will go and what will stay."
+    "reason": "Your Google Drive backup now lives in a FilmBase folder you can actually see, instead of being hidden where only the app could reach it. You will need to tap Connect in Settings once more after updating — the change means Drive has to grant access again. Backups made before this update stay in the old hidden location and the app can no longer read them, so turn Auto Backup on and let it write a fresh one."
   }
 }
