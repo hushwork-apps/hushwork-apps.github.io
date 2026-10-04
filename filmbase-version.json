@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 29,
+    "build": 30,
     "version": "1.0.0",
-    "reason": "Your Google Drive backup now lives in a FilmBase folder you can actually see, instead of being hidden where only the app could reach it. You will need to tap Connect in Settings once more after updating — the change means Drive has to grant access again. Backups made before this update stay in the old hidden location and the app can no longer read them, so turn Auto Backup on and let it write a fresh one."
+    "reason": "Settings now shows which Google account your backups go to, and lets you disconnect or switch to a different one. Until now there was no way to change it once connected. Disconnecting deletes nothing — your library stays on the phone and the backup already in Drive is left alone."
   }
 }
