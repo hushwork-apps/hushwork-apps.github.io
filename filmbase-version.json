@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 30,
+    "build": 31,
     "version": "1.0.0",
-    "reason": "Settings now shows which Google account your backups go to, and lets you disconnect or switch to a different one. Until now there was no way to change it once connected. Disconnecting deletes nothing — your library stays on the phone and the backup already in Drive is left alone."
+    "reason": "A label on the You vs the Crowd card was cut short — it read “progre…” instead of “progress”. Nothing else changed."
   }
 }
