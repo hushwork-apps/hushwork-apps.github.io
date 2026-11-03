@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 31,
-    "version": "1.0.0",
-    "reason": "A label on the You vs the Crowd card was cut short — it read “progre…” instead of “progress”. Nothing else changed."
+    "build": 32,
+    "version": "1.0.1",
+    "reason": "The rating button no longer hides behind the navigation bar on phones that use on-screen buttons."
   }
 }
